@@ -8,6 +8,10 @@ AI 模拟面试 App，Flutter 跨端实现。输入目标岗位与技术栈，Ap
 
 Android APK（arm64，约 21 MB，已签名）：<https://github.com/Molika68/ai-interviewer/releases>
 
+手机扫码直接下载：
+
+![扫码下载 Android APK](https://raw.githubusercontent.com/Molika68/ai-interviewer/main/qr-download.png)
+
 安装时若系统提示"未知来源"，允许即可——这是个人开发者直发包的正常流程，未上架应用商店。
 
 ## 三种面试引擎
